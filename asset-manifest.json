@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/swiftieindoctrination/static/css/main.5aa4642c.css",
-    "main.js": "/swiftieindoctrination/static/js/main.c8495c85.js",
+    "main.js": "/swiftieindoctrination/static/js/main.b8297b4a.js",
     "static/js/787.e5897882.chunk.js": "/swiftieindoctrination/static/js/787.e5897882.chunk.js",
     "index.html": "/swiftieindoctrination/index.html",
     "main.5aa4642c.css.map": "/swiftieindoctrination/static/css/main.5aa4642c.css.map",
-    "main.c8495c85.js.map": "/swiftieindoctrination/static/js/main.c8495c85.js.map",
+    "main.b8297b4a.js.map": "/swiftieindoctrination/static/js/main.b8297b4a.js.map",
     "787.e5897882.chunk.js.map": "/swiftieindoctrination/static/js/787.e5897882.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5aa4642c.css",
-    "static/js/main.c8495c85.js"
+    "static/js/main.b8297b4a.js"
   ]
 }
